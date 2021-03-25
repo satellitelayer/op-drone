@@ -1,2 +1,2 @@
 # thousand-eyes
-Continously monitor open positions in the market.
+Continously monitor open positions in the market. 
