@@ -1,2 +1,2 @@
 # ten-thousand-eyes
-Continously monitor open positions in the market. 
+Continuously monitor open positions in the market.
