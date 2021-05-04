@@ -1,2 +1,2 @@
 # thousand-eyes
-Continuously monitor open positions in the market.
+Thousand Eyes is a project to monitor interesting open positions in the job market. 
