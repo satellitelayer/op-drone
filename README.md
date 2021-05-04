@@ -1,2 +1,2 @@
-# ten-thousand-eyes
+# thousand-eyes
 Continuously monitor open positions in the market.
